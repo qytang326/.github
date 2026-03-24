@@ -83,6 +83,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer&color1=144E97&color2=A8071A" width="95%" />
 
+<details>
+  <summary><b>📈 活动热力图 (点击展开)</b></summary>
+  <br />
+  <img src="https://ghchart.rshah.org/qytang326" alt="Github chart" />
+  <br /><sub>💡 虚假的贡献度动态更新，每一格都是虚假的~</sub>
+</details>
+
 <div align="center">
 
 ## 💬 交流与互动
